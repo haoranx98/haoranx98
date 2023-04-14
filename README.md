@@ -5,6 +5,7 @@
 - 想要了解更多，请关注我的博客[haoranx98的博客](https://www.haoranx98.com)
 - Read more about my [Blog](https://www.haoranx98.com)
 
+![C/C++](https://img.shields.io/badge/-C/c++-blue?logo=c&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)

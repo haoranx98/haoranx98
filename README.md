@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I am 大脸猫😺
 <img src="https://github-readme-stats.vercel.app/api?username=haoranx98&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+一名计算机专业的研究生 *A graduate student in computer science*
+
+- 想要了解更多，请关注我的博客[haoranx98的博客](https://www.haoranx98.com)
+- Read more about my Blog [Blog](https://www.haoranx98.com)
+
 
 <!--
 **haoranx98/haoranx98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

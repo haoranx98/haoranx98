@@ -1,9 +1,9 @@
 ### Hi, I am 大脸猫😺
 <img src="https://github-readme-stats.vercel.app/api?username=haoranx98&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-一名计算机专业的研究生 *A graduate student in computer science*
+一名计算机专业的研究生*A graduate student in computer science*
 
 - 想要了解更多，请关注我的博客[haoranx98的博客](https://www.haoranx98.com)
-- Read more about my Blog [Blog](https://www.haoranx98.com)
+- Read more about my [Blog](https://www.haoranx98.com)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
